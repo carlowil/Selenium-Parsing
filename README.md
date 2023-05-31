@@ -5,5 +5,6 @@
 - selenium
 - time
 - json
+
 Видео работы программы:
-<video src='https://youtu.be/gIM32DpMdgk' width=180/>
+[![Watch the video]](https://youtu.be/gIM32DpMdgk)
