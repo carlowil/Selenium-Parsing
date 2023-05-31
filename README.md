@@ -6,5 +6,5 @@
 - time
 - json
 
-Видео работы программы:
-[![Watch the video]](https://youtu.be/gIM32DpMdgk)
+<h3>Видео работы программы:</h3>
+https://youtu.be/gIM32DpMdgk
